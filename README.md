@@ -1,3 +1,3 @@
-# hi-there
+# hi-thrue
 i have added some more comments.
-just you know
+just
